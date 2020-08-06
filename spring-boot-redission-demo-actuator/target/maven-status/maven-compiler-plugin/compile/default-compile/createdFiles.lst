@@ -1,0 +1,11 @@
+com\keven\redission\demo\App.class
+com\keven\redission\demo\CustomerHealthIndicator.class
+com\keven\redission\demo\HelloController.class
+com\keven\redission\demo\CustomerMetricsIndicator.class
+com\keven\redission\demo\SystemInfoMBean.class
+com\keven\redission\demo\KevenApplicationMXBeanRegistrar.class
+com\keven\redission\demo\EndpointConfiguration.class
+com\keven\redission\demo\JMXMain.class
+com\keven\redission\demo\SpringBootDemoApplication.class
+com\keven\redission\demo\SystemInfo.class
+META-INF\spring-configuration-metadata.json

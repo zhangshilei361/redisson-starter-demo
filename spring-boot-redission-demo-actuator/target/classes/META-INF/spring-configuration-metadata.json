@@ -1,0 +1,26 @@
+{
+  "groups": [
+    {
+      "name": "management.endpoint.customer",
+      "type": "com.keven.redission.demo.CustomerMetricsIndicator",
+      "sourceType": "com.keven.redission.demo.CustomerMetricsIndicator"
+    }
+  ],
+  "properties": [
+    {
+      "name": "management.endpoint.customer.cache.time-to-live",
+      "type": "java.time.Duration",
+      "description": "Maximum time that a response can be cached.",
+      "sourceType": "com.keven.redission.demo.CustomerMetricsIndicator",
+      "defaultValue": "0ms"
+    },
+    {
+      "name": "management.endpoint.customer.enabled",
+      "type": "java.lang.Boolean",
+      "description": "Whether to enable the customer endpoint.",
+      "sourceType": "com.keven.redission.demo.CustomerMetricsIndicator",
+      "defaultValue": true
+    }
+  ],
+  "hints": []
+}
